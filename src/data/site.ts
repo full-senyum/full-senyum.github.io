@@ -9,7 +9,10 @@ export const site = {
   description:
     "Cetak, merchandise, dan souvenir korporat yang dipersonalisasi dengan identitas brand Anda. Berbasis di Kota Bengkulu, kirim ke seluruh Indonesia.",
   whatsapp: { display: "+62 852-8531-7790", e164: "6285285317790" },
-  waMessage: "Halo admin, saya tertarik untuk membuat souvenir",
+  /** Shown as plain text under the WhatsApp number — not a mailto link. */
+  email: "fullsenyumgroup@gmail.com",
+  waMessage: "Halo admin! saya tertarik untuk membuat souvenir",
+  waEmoji: "😁",
   address: {
     lines: [
       "Jl. Jendral Sudirman, Pintu Batu",
@@ -23,18 +26,16 @@ export const site = {
 } as const;
 
 /**
- * WhatsApp deep link. Without a product the greeting is sent as-is (no
- * period); with a product it becomes "… membuat souvenir {product}."
+ * WhatsApp deep link. Without a product: "Halo admin! saya tertarik untuk
+ * membuat souvenir 😁"; with a product it goes before the emoji:
+ * "… membuat souvenir {product} 😁".
  */
 export function waLink(product?: string): string {
-  const text = product ? `${site.waMessage} ${product}.` : site.waMessage;
+  const text = [site.waMessage, product, site.waEmoji].filter(Boolean).join(" ");
   return `https://wa.me/${site.whatsapp.e164}?text=${encodeURIComponent(text)}`;
 }
 
-export const mapsUrl =
-  "https://www.google.com/maps/search/?api=1&query=" +
-  encodeURIComponent(site.address.query);
-
+// No outbound Google Maps link on purpose (owner request); only the embed on /kontak/.
 export const mapsEmbed =
   "https://www.google.com/maps?q=" +
   encodeURIComponent(site.address.query) +

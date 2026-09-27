@@ -3,11 +3,10 @@ import type { Metadata } from "next";
 import { Faq } from "@/components/shared/faq";
 import { PageTitle } from "@/components/shared/page-title";
 import { Reveal } from "@/components/shared/reveal";
-import { TextLink } from "@/components/shared/text-link";
 import { WaButton } from "@/components/shared/wa-button";
 import { ProductPicker } from "@/components/sections/product-picker";
 import { Showreel } from "@/components/sections/showreel";
-import { mapsEmbed, mapsUrl, site, waLink } from "@/data/site";
+import { mapsEmbed, site, waLink } from "@/data/site";
 import { getStock } from "@/lib/media";
 
 const intro =
@@ -40,6 +39,7 @@ export default function KontakPage() {
                 <span className="sr-only"> (membuka WhatsApp)</span>
               </a>
             </p>
+            <p className="text-title mt-1 text-muted">{site.email}</p>
             <div className="mt-6 flex flex-wrap items-center gap-x-6 gap-y-3 md:mt-8">
               <WaButton size="lg" label="Chat sekarang" />
               <p className="text-label text-muted">Admin membalas lewat WhatsApp.</p>
@@ -54,9 +54,6 @@ export default function KontakPage() {
                 </span>
               ))}
             </address>
-            <TextLink href={mapsUrl} external arrow="up-right" className="mt-3">
-              Buka di Google Maps
-            </TextLink>
           </div>
         </Reveal>
       </section>

@@ -1,11 +1,11 @@
 import Link from "next/link";
-import { IconArrowUp, IconArrowUpRight } from "@tabler/icons-react";
+import { IconArrowUp } from "@tabler/icons-react";
 import type { ReactNode } from "react";
 
 import { Logo } from "@/components/brand/logo";
 import { WaButton } from "@/components/shared/wa-button";
 import { lines } from "@/data/lines";
-import { mapsUrl, nav, site, waLink } from "@/data/site";
+import { nav, site, waLink } from "@/data/site";
 
 const linkClass =
   "inline-flex min-h-11 min-w-11 items-center text-label text-white/90 underline-offset-[6px] transition-colors duration-150 hover:text-white hover:underline md:min-h-9";
@@ -41,7 +41,10 @@ export function SiteFooter() {
           </p>
           <div className="flex flex-col items-start gap-4 lg:col-span-5 lg:justify-end">
             <WaButton variant="inverse" size="lg" label="Chat admin di WhatsApp" />
-            <p className="text-label text-on-navy-muted tabular-nums">{site.whatsapp.display}</p>
+            <div className="text-label text-on-navy-muted">
+              <p className="tabular-nums">{site.whatsapp.display}</p>
+              <p>{site.email}</p>
+            </div>
           </div>
         </div>
 
@@ -79,6 +82,7 @@ export function SiteFooter() {
                 </a>
               </li>
             </ul>
+            <p className="text-label text-on-navy-muted">{site.email}</p>
             <address className="text-label mt-3 not-italic text-on-navy-muted">
               {site.address.lines.map((line) => (
                 <span key={line} className="block">
@@ -86,16 +90,6 @@ export function SiteFooter() {
                 </span>
               ))}
             </address>
-            <a
-              href={mapsUrl}
-              target="_blank"
-              rel="noopener"
-              className={`${linkClass} mt-2 gap-1.5 underline decoration-white/40`}
-            >
-              Buka di Google Maps
-              <IconArrowUpRight stroke={1.5} className="size-4" aria-hidden="true" />
-              <span className="sr-only"> (membuka tab baru)</span>
-            </a>
           </FooterColumn>
         </div>
 

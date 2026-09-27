@@ -16,7 +16,7 @@ export function HomeHero() {
       <div className="mt-10 grid gap-y-8 md:mt-16 md:grid-cols-12 md:items-end md:gap-x-5 xl:mt-24">
         <p className="text-h4 animate-rise max-w-[800px] text-navy [animation-delay:450ms] md:col-span-8 xl:col-span-7">
           Cetak, merchandise, dan souvenir korporat yang dipersonalisasi dengan identitas brand
-          Anda. Dikerjakan di Bengkulu, dikirim ke seluruh Indonesia.
+          Anda. Dapat dikirim ke seluruh Indonesia.
         </p>
         <div className="animate-rise flex flex-wrap items-center gap-x-7 gap-y-3 [animation-delay:550ms] md:col-span-4 md:flex-col md:items-start xl:col-span-5 xl:flex-row xl:items-center">
           <WaButton size="lg" label="Chat WhatsApp" />
