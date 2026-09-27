@@ -36,8 +36,9 @@ function MarqueeRow({ items, direction }: { items: Client[]; direction: "left" |
  * hover; reduced motion shows a static wrapped grid.
  */
 export function ClientMarquee() {
-  const rowOne = clients.slice(0, 10);
-  const rowTwo = clients.slice(10);
+  const marqueeClients = clients.filter((client) => client.marquee !== false);
+  const rowOne = marqueeClients.slice(0, 10);
+  const rowTwo = marqueeClients.slice(10);
   return (
     <section
       aria-labelledby="klien-title"

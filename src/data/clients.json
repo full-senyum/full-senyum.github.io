@@ -107,6 +107,7 @@
     "height": 128,
     "scale": 0.693,
     "fallbackText": false,
+    "marquee": false,
     "source": "https://commons.wikimedia.org/wiki/File:Changhong.svg"
   },
   {

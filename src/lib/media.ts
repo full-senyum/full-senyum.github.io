@@ -57,6 +57,8 @@ export type Client = {
   height: number;
   scale?: number;
   fallbackText?: boolean;
+  /** false = left out of the home marquee (owner request), still in the Tentang grid. */
+  marquee?: boolean;
   source?: string;
 };
 
