@@ -113,12 +113,11 @@ export const lines: Line[] = [
     description:
       "Gift set, pulpen, lanyard, pouch, tas foldable, dan kipas promosi untuk event dan program korporat.",
     technique: "Logo di tiap produk",
-    photos: ["h06-05", "h06-07", "h06-08", "h06-10", "h06-09", "h06-11", "h06-12", "h06-06"],
+    photos: ["h06-05", "h06-07", "h06-08", "h06-09", "h06-11", "h06-06"],
     clients: [
       "Lotte Mall",
       "Kargolo",
       "Pertamina",
-      "BTN",
       "Erablue Electronics",
       "Taman Nasional Kepulauan Seribu",
     ],

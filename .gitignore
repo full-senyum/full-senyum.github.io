@@ -43,3 +43,4 @@ next-env.d.ts
 # Local-only research and internal spec (third-party analysis, old company data) — keep out of the public repo
 /docs/research/
 /docs/build-spec.md
+/company-profile/
