@@ -1,0 +1,233 @@
+[
+  {
+    "name": "Bank Mandiri",
+    "short": "Mandiri",
+    "slug": "mandiri",
+    "src": "/clients/mandiri.svg",
+    "width": 800,
+    "height": 233,
+    "scale": 0.935,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Bank_Mandiri_logo_2016.svg"
+  },
+  {
+    "name": "Erablue Electronics",
+    "short": "Erablue",
+    "slug": "erablue",
+    "src": "/clients/erablue.svg",
+    "width": 503,
+    "height": 145,
+    "scale": 0.93,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Erablue_logo.svg"
+  },
+  {
+    "name": "Kementerian Agama RI",
+    "short": "Kemenag",
+    "slug": "kemenag",
+    "src": "/clients/kemenag.svg",
+    "width": 800,
+    "height": 761,
+    "scale": 1.35,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Seal_of_the_Ministry_of_Religious_Affairs_of_the_Republic_of_Indonesia.svg"
+  },
+  {
+    "name": "Lotte Mart / Lotte Mall Indonesia",
+    "short": "Lotte",
+    "slug": "lotte",
+    "src": "/clients/lotte.svg",
+    "width": 800,
+    "height": 250,
+    "scale": 0.968,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Lotte_Logo_(2017).svg"
+  },
+  {
+    "name": "Bank BTN",
+    "short": "BTN",
+    "slug": "btn",
+    "src": "/clients/btn.svg",
+    "width": 800,
+    "height": 449,
+    "scale": 1.0,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:BTN_2024.svg"
+  },
+  {
+    "name": "Hyundai",
+    "short": "Hyundai",
+    "slug": "hyundai",
+    "src": "/clients/hyundai.svg",
+    "width": 800,
+    "height": 103,
+    "scale": 0.621,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Motor_Company_logo.svg"
+  },
+  {
+    "name": "RS Mitra Keluarga",
+    "short": "Mitra Keluarga",
+    "slug": "mitra-keluarga",
+    "src": "/clients/mitra-keluarga.svg",
+    "width": 800,
+    "height": 300,
+    "scale": 1.061,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Mitra_Keluarga.svg"
+  },
+  {
+    "name": "We Care",
+    "short": "We Care",
+    "slug": "we-care",
+    "src": "/clients/we-care.svg",
+    "width": 474,
+    "height": 120,
+    "scale": 0.871,
+    "fallbackText": true,
+    "source": ""
+  },
+  {
+    "name": "KB Bank Indonesia",
+    "short": "KB Bank",
+    "slug": "kb-bank",
+    "src": "/clients/kb-bank.svg",
+    "width": 800,
+    "height": 143,
+    "scale": 0.732,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:KB_Bank_logo.png"
+  },
+  {
+    "name": "Changhong",
+    "short": "Changhong",
+    "slug": "changhong",
+    "src": "/clients/changhong.svg",
+    "width": 800,
+    "height": 128,
+    "scale": 0.693,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Changhong.svg"
+  },
+  {
+    "name": "Rumah Sakit Pantai Indah Kapuk",
+    "short": "RS PIK",
+    "slug": "rs-pik",
+    "src": "/clients/rs-pik.svg",
+    "width": 800,
+    "height": 374,
+    "scale": 1.184,
+    "fallbackText": false,
+    "source": "https://www.pikhospital.co.id/public/front_end/images/Logo-rspik.svg"
+  },
+  {
+    "name": "UOB",
+    "short": "UOB",
+    "slug": "uob",
+    "src": "/clients/uob.svg",
+    "width": 800,
+    "height": 224,
+    "scale": 0.917,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:UOB_Logo_(2022).svg"
+  },
+  {
+    "name": "Teh Tarik Granita",
+    "short": "Granita",
+    "slug": "granita",
+    "src": "/clients/granita.svg",
+    "width": 487,
+    "height": 120,
+    "scale": 0.86,
+    "fallbackText": true,
+    "source": "https://www.spc.id/index.php/our-products/granita/"
+  },
+  {
+    "name": "Mega Finance",
+    "short": "Mega Finance",
+    "slug": "mega-finance",
+    "src": "/clients/mega-finance.svg",
+    "width": 800,
+    "height": 373,
+    "scale": 1.183,
+    "fallbackText": false,
+    "source": "https://www.megafinance.co.id/wp-content/uploads/2023/10/Logo-Mega-Finance.png"
+  },
+  {
+    "name": "Lazada",
+    "short": "Lazada",
+    "slug": "lazada",
+    "src": "/clients/lazada.svg",
+    "width": 800,
+    "height": 210,
+    "scale": 0.887,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Lazada_(2019).svg"
+  },
+  {
+    "name": "OCBC",
+    "short": "OCBC",
+    "slug": "ocbc",
+    "src": "/clients/ocbc.svg",
+    "width": 800,
+    "height": 216,
+    "scale": 0.9,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Logo-ocbc.svg"
+  },
+  {
+    "name": "Prudential",
+    "short": "Prudential",
+    "slug": "prudential",
+    "src": "/clients/prudential.svg",
+    "width": 800,
+    "height": 140,
+    "scale": 0.725,
+    "fallbackText": false,
+    "source": "https://www.prudential.co.id/"
+  },
+  {
+    "name": "BARO",
+    "short": "BARO",
+    "slug": "baro",
+    "src": "/clients/baro.svg",
+    "width": 326,
+    "height": 120,
+    "scale": 1.051,
+    "fallbackText": true,
+    "source": ""
+  },
+  {
+    "name": "Perusahaan Gas Negara",
+    "short": "PGN",
+    "slug": "pgn",
+    "src": "/clients/pgn.svg",
+    "width": 800,
+    "height": 234,
+    "scale": 0.937,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Logo_Pertamina_Gas_Negara.svg"
+  },
+  {
+    "name": "Komipo Energy Indonesia",
+    "short": "Komipo",
+    "slug": "komipo",
+    "src": "/clients/komipo.svg",
+    "width": 418,
+    "height": 120,
+    "scale": 0.928,
+    "fallbackText": true,
+    "source": "https://www.komipo.co.kr/eng/main/main.do"
+  },
+  {
+    "name": "Pertamina",
+    "short": "Pertamina",
+    "slug": "pertamina",
+    "src": "/clients/pertamina.svg",
+    "width": 800,
+    "height": 186,
+    "scale": 0.835,
+    "fallbackText": false,
+    "source": "https://commons.wikimedia.org/wiki/File:Pertamina_Logo.svg"
+  }
+]

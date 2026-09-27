@@ -1,0 +1,110 @@
+[
+  {
+    "id": "home-showreel",
+    "alt": "Flat lay kit notebook hitam-putih dan tempat pulpen di atas latar abu-abu terang",
+    "width": 2560,
+    "height": 1440,
+    "sources": [
+      {
+        "w": 800,
+        "src": "/images/stock/home-showreel-800.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/stock/home-showreel-1600.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/images/stock/home-showreel-2560.webp"
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRl4AAABXRUJQVlA4IFIAAADQAwCdASoYAA4APtFYpEuoJSOhsAgBABoJaQAAW/DQTcbhyX5C8AAA/t7aafY4iS+4HtJq9SrHlgxN9GmYtZOTiFqosQQF3/H6cCHB+JZiEAAA",
+    "credit": {
+      "name": "Debby Hudson",
+      "profile": "https://unsplash.com/@hudsoncrafted",
+      "photo": "https://unsplash.com/photos/a-black-and-white-desk-with-a-pen-holder-and-two-pencils-GIlKHdKpvGY"
+    },
+    "placeholder": true
+  },
+  {
+    "id": "about-print",
+    "alt": "Mesin cetak menjalankan lembaran kertas hasil produksi dari jarak dekat",
+    "width": 2560,
+    "height": 1709,
+    "sources": [
+      {
+        "w": 800,
+        "src": "/images/stock/about-print-800.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/stock/about-print-1600.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/images/stock/about-print-2560.webp"
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRq4AAABXRUJQVlA4IKIAAAAQBACdASoYABAAPtFUo0uoJKMhsAgBABoJZwAD5OINLOAdathyI6k3YAD+o2Spc9lQK7o8UgxK7faIdbWCPrMzOJArDFJ6rAYvM5M6zgcf+JQBispURIx38ph55KS7rmivLOVXAU/D4GPqVJrgE6oayhnGTjkV/emjqR5/JaTH+/Uqs4G6r8lFfMdVGwIrs89TG54fnkqGsEc9aL3ccnLVoAA=",
+    "credit": {
+      "name": "Bank Phrom",
+      "profile": "https://unsplash.com/@bank_phrom",
+      "photo": "https://unsplash.com/photos/printing-machine-Tzm3Oyu_6sk"
+    },
+    "placeholder": true
+  },
+  {
+    "id": "about-smile",
+    "alt": "Dua orang tertawa lepas dan bertukar sapa di ruang kerja",
+    "width": 2560,
+    "height": 1707,
+    "sources": [
+      {
+        "w": 800,
+        "src": "/images/stock/about-smile-800.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/stock/about-smile-1600.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/images/stock/about-smile-2560.webp"
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRrAAAABXRUJQVlA4IKQAAABQBACdASoYABAAPtFUo0uoJKMhsAgBABoJZQAD5UHakD3grdVmUDCWon0AAP7sjeU8EilkA6cLbxigCEoza/7WkdCMDvCkCtTpu6sXtIuvZRsAK8PklultNq+EfotouMIx1SQf8PXUTwnpuUInfF7NkuRadzsanbT4hE0OKen86OnQWx5Sr+7wZhpYpr64tbyCB/dAKK5NM9vMZ+OreyIzxiAAAA==",
+    "credit": {
+      "name": "Mushvig Niftaliyev",
+      "profile": "https://unsplash.com/@mushvig95",
+      "photo": "https://unsplash.com/photos/women-laughing-in-office-workspace-JUZlC3G4Y6c"
+    },
+    "placeholder": true
+  },
+  {
+    "id": "contact-parcel",
+    "alt": "Kotak paket cokelat tersusun dengan label pengiriman siap dikirim",
+    "width": 2560,
+    "height": 1707,
+    "sources": [
+      {
+        "w": 800,
+        "src": "/images/stock/contact-parcel-800.webp"
+      },
+      {
+        "w": 1600,
+        "src": "/images/stock/contact-parcel-1600.webp"
+      },
+      {
+        "w": 2560,
+        "src": "/images/stock/contact-parcel-2560.webp"
+      }
+    ],
+    "lqip": "data:image/webp;base64,UklGRooAAABXRUJQVlA4IH4AAADwAwCdASoYABAAPtFWo0uoJKMhsAgBABoJQBag+ABGZst5FAU8LifYAP7KGEjTxT2r/N0Usx6W6d5ZFg22VBPmyAYPD9Tp/um3MXL1l+LgA+HZIJshUdW4oBBk7PMNPWYiOgXsL6chAKMRdrl2ahHEugBedPSrpAbEkmPgYAA=",
+    "credit": {
+      "name": "Mediamodifier",
+      "profile": "https://unsplash.com/@mediamodifier",
+      "photo": "https://unsplash.com/photos/brown-cardboard-box-on-white-table-jpQs15STZZ4"
+    },
+    "placeholder": true
+  }
+]

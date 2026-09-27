@@ -1,0 +1,59 @@
+[
+  {
+    "id": "grafir",
+    "kind": "video",
+    "video": "/media/bento/grafir.mp4",
+    "poster": "/media/bento/grafir-poster.webp",
+    "width": 1024,
+    "height": 576,
+    "kicker": "Grafir laser",
+    "title": "Logo terukir permanen di badan tumbler",
+    "note": "Mesin laser mengukir nama dan logo langsung ke permukaan tumbler stainless; dua tumbler jadi (bertuliskan \"AraSains\" dan \"Aurelia\") terlihat berdiri di belakang proses pengukiran yang sedang berjalan di meja kerja.",
+    "source": "tumbleryuk.id (izin pemilik)"
+  },
+  {
+    "id": "uv",
+    "kind": "video",
+    "video": "/media/bento/uv.mp4",
+    "poster": "/media/bento/uv-poster.webp",
+    "width": 1024,
+    "height": 576,
+    "kicker": "UV print",
+    "title": "Warna penuh langsung di permukaan produk",
+    "note": "Printer UV mencetak desain full color (pola bulat merah dan bentuk hitam) ke permukaan tumbler silinder yang berputar, dengan lampu curing ultraviolet menyala di bagian bawah mesin.",
+    "source": "tumbleryuk.id (izin pemilik)"
+  },
+  {
+    "id": "qc",
+    "kind": "image",
+    "image": "/media/bento/box-qc.webp",
+    "width": 1200,
+    "height": 669,
+    "kicker": "Detail grafir",
+    "title": "Hasil grafir dilihat dari dekat",
+    "note": "Close-up hasil ukiran laser berwarna perak pada tumbler hitam bertuliskan \"Coffee is Always a Good Idea\" dan \"My Coffee\", menunjukkan ketajaman garis dan detail tipografi.",
+    "source": "tumbleryuk.id (izin pemilik)"
+  },
+  {
+    "id": "alur",
+    "kind": "image",
+    "image": "/media/bento/box-alur.webp",
+    "width": 1200,
+    "height": 669,
+    "kicker": "Pesanan massal",
+    "title": "Satu desain untuk puluhan unit",
+    "note": "Barisan tumbler hasil produksi berjejer, masing-masing diberi label kertas kraft bernomor urut (001, 002, 003, ...) yang diikat dengan tali, untuk melacak alur produksi per batch.",
+    "source": "tumbleryuk.id (izin pemilik)"
+  },
+  {
+    "id": "gvu",
+    "kind": "image",
+    "image": "/media/bento/box-gvu.webp",
+    "width": 1200,
+    "height": 669,
+    "kicker": "Grafir atau UV?",
+    "title": "Admin bantu pilih teknik yang pas",
+    "note": "Perbandingan berdampingan: tumbler kiri dipersonalisasi dengan grafir laser (teks perak \"Coffee is Always a Good Idea\" / \"My Coffee\"), tumbler kanan dengan cetak UV full color bermotif percikan warna-warni.",
+    "source": "tumbleryuk.id (izin pemilik)"
+  }
+]
